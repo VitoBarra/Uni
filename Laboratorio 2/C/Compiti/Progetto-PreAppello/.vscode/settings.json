@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "prodconssem": "c",
+        "util.h": "c",
+        "Signal.C": "cpp",
+        "pthread.h": "c",
+        "boundedqueue.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

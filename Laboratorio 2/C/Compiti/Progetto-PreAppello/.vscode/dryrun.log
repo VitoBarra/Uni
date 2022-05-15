@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/local/ADUNIPI/v.barra1/Code/Progetto-PreAppello'
+gcc boundedqueue.c -c -g -Wall -I.   -o boundedqueue.o   -pthread
+gcc farm.c -g -Wall -I.   -o farm boundedqueue.o   -pthread
+make: Leaving directory '/home/local/ADUNIPI/v.barra1/Code/Progetto-PreAppello'
+ 

@@ -1,0 +1,21 @@
+﻿  Appoggio.c
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\Appoggio.c(22,15): error C2065: 'filename': undeclared identifier
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\Appoggio.c(22,15): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\Appoggio.c(22,7): warning C4024: 'stat': different types for formal and actual parameter 1
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\Appoggio.c(23,7): error C2065: 'size': undeclared identifier
+  DynamicArray.c
+  DynamicMatrix.c
+  Lista.c
+  MyFile.c
+  Point.c
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\Point.c(58,29): warning C4013: 'calloc' undefined; assuming extern returning int
+  MyString.c
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\MyString.c(75,20): warning C4018: '<': signed/unsigned mismatch
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\MyString.c(87,20): warning C4018: '<': signed/unsigned mismatch
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\MyString.c(149,20): warning C4018: '<': signed/unsigned mismatch
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\MyString.c(155,20): warning C4018: '<': signed/unsigned mismatch
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\MyString.c(164,10): warning C4098: 'encode': 'void' function returning a value
+  VersionFile.c
+  Generating Code...
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\MyString.c(80): warning C4172: returning address of local variable or temporary: str
+F:\User\Documenti\Projects\Uni\Laboratorio\C\Esercizi C\MyString.c(92): warning C4172: returning address of local variable or temporary: str
